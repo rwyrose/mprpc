@@ -1,0 +1,3 @@
+/home/rwy/project/mprpc/build/example/caller/CMakeFiles/consumer.dir
+/home/rwy/project/mprpc/build/src/CMakeFiles/mprpc.dir
+/home/rwy/project/mprpc/build/example/callee/CMakeFiles/provider.dir
